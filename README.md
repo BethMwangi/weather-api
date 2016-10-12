@@ -11,5 +11,22 @@ Urrlib3 client is used with the python standard libraries and assists in connect
 
 The weather API has XML, JSON and HTML format. JSON format was used to decode and print the data.
 
+#Installation.
+
+**To be able to get this project to your local machine**
+
+
+```sh
+$ git clone https://github.com/BethMwangi/weather-api.git
+$ cd weather-api
+
+$ python weather.py
+
+
+
+
+
+
+
 
 
